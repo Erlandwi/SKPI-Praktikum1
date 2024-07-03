@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Tesss\Tesss\bin\Debug\net8.0-windows\Tesss.exe
+C:\Users\user\source\repos\Tesss\Tesss\bin\Debug\net8.0-windows\Tesss.deps.json
+C:\Users\user\source\repos\Tesss\Tesss\bin\Debug\net8.0-windows\Tesss.runtimeconfig.json
+C:\Users\user\source\repos\Tesss\Tesss\bin\Debug\net8.0-windows\Tesss.dll
+C:\Users\user\source\repos\Tesss\Tesss\bin\Debug\net8.0-windows\Tesss.pdb
+C:\Users\user\source\repos\Tesss\Tesss\obj\Debug\net8.0-windows\Tesss.Form1.resources
+C:\Users\user\source\repos\Tesss\Tesss\obj\Debug\net8.0-windows\Tesss.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Tesss\Tesss\obj\Debug\net8.0-windows\Tesss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Tesss\Tesss\obj\Debug\net8.0-windows\Tesss.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Tesss\Tesss\obj\Debug\net8.0-windows\Tesss.AssemblyInfo.vb
+C:\Users\user\source\repos\Tesss\Tesss\obj\Debug\net8.0-windows\Tesss.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Tesss\Tesss\obj\Debug\net8.0-windows\Tesss.dll
+C:\Users\user\source\repos\Tesss\Tesss\obj\Debug\net8.0-windows\refint\Tesss.dll
+C:\Users\user\source\repos\Tesss\Tesss\obj\Debug\net8.0-windows\Tesss.pdb
+C:\Users\user\source\repos\Tesss\Tesss\obj\Debug\net8.0-windows\Tesss.genruntimeconfig.cache
+C:\Users\user\source\repos\Tesss\Tesss\obj\Debug\net8.0-windows\ref\Tesss.dll
